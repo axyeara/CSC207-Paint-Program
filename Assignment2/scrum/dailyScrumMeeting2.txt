@@ -1,0 +1,146 @@
+# Fill in, commit and push each day.
+# Group Member: Momo Yoshida
+
+Oct 23, 2017
+	Yesterday : No work.
+	Today     : Added group repo into Git and created new branch.
+	Obstacles : Took a while to understand how exactly to push
+				from one branch to another.
+
+Oct 24, 2017
+	Yesterday : group repo and git.
+	Today     : No update from other 2 group members. 
+			    Better talk to Arnold about them.
+			    Read over the assignment once.
+	Obstacles : None.
+
+Oct 25, 2017
+	Yesterday : No work. Talked to Arnold about group members.
+	Today     : Still waiting for members to reply.
+	Obstacles : None.
+
+Oct 26, 2017
+	Yesterday : No work. Members did not reply.
+	Today     : No work.
+	Obstacles : None.
+
+Oct 27, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+
+Oct 28, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+
+Oct 29, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+
+Oct 30, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+
+Oct 31, 2017
+	Yesterday : No work.
+	Today     : Read through the requirements for the assignment
+			    to prepare for the meeting tomorrow.
+	Obstacles : None.
+
+Nov 1, 2017
+	Yesterday : Read through the requirements for the assignment
+			    to prepare for the meeting tomorrow.
+	Today     : Meet with a group member today. Attempt starting
+				and finishing a user story.
+	Obstacles : None.
+	
+Nov 2, 2017
+	Yesterday : Met with a group member.
+	Today     : Fix circle because it does not work the way 
+				the user would expect it to. 
+	Obstacles : Was confused about fixing circle and classifying
+				it as user story 1. Also could not allocate enough
+				time, need to put in more time tomorrow.
+	
+Nov 3, 2017
+	Yesterday : Attempted to fix bug for circle but
+				could not do it.
+	Today     : Work on bug for circle and also the
+				feedback for it as well.
+	Obstacles : Could not pinpoint the reason for the circle bug.
+
+Nov 4, 2017
+	Yesterday : Worked on circle bug and also tried to
+				code the feedback for circle.
+	Today     : Meet with group member to go over and 
+				work on the assignment together rather
+				than remotely.
+	Obstacles : Took a while to make our logic of 
+				solving the bugs and implementing the
+				user stories into code that works.
+
+Nov 5, 2017
+	Yesterday : Met with group member and worked on assignment together.
+	Today     : Meet with group member and finish assignment.
+				Update code by 11:59pm.
+	Obstacles : Had to figure out bugs our code made by themselves.
+
+Nov 6, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+	
+Nov 7, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+	
+Nov 8, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+	
+Nov 9, 2017
+	Yesterday : No work.
+	Today     : No work.
+	Obstacles : None.
+	
+Nov 10, 2017
+	Yesterday : No work.
+	Today     : Look into what procedure is needed in
+				order to fix Bug 2.1.
+	Obstacles : None.
+	
+Nov 11, 2017
+	Yesterday : One team mate got in touch with the group.
+				Looked into what procedure is needed in
+				order to fix Bug 2.1.
+	Today     : Fix bug 2.1 and also complete a user story.
+	Obstacles : Took a while to fully understand how to implement
+				certain design patterns.
+	
+Nov 12, 2017
+	Yesterday : Went through each Bug in backlog and did some
+				research on how to implement each design pattern.
+	Today     : Fix bug all 4 bugs written in backlog.
+				Need to get in touch with members.
+	Obstacles : Took a while to fully understand how to implement
+				certain command patterns. Had a hard time communicating
+				with team.
+	
+Nov 13, 2017
+	Yesterday : Fixed all bugs in backlog. Got in touch with
+				two group members.
+	Today     : Check code again for any new bugs. If there is
+				a better way to implement user stories or fixes for bugs,
+				do so.
+	Obstacles : None.
+	
+Nov 14, 2017
+	Yesterday : Fixed new bugs and cleaned up code.
+	Today     : Helped manage git and commits on git.
+			    Submit Assignment 2 part 2 by 11:59pm.
+	Obstacles : Some problems with git.

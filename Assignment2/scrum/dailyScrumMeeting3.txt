@@ -1,0 +1,120 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+	//IN OLD GROUP FOR A2P1
+	
+Nov 6, 2017
+	Yesterday :
+	Today     :Was not in group yet.
+	Obstacles :
+	
+Nov 7, 2017
+	Yesterday :
+	Today     :Was not in group yet.
+	Obstacles :
+
+Nov 8, 2017
+	Yesterday :
+	Today     : Meet up with group members, and try and decide which design pattern to implement.
+	Obstacles :
+	
+Nov 9, 2017
+	Yesterday :
+	Today     : continue to discuss project
+	Obstacles :
+	
+Nov 10, 2017
+	Yesterday :
+	Today     : communicate with newly added group member
+	Obstacles :
+	
+Nov 11, 2017
+	Yesterday :
+	Today     : Talk to group and look to implement a design pattern and work on bugs and user story
+	Obstacles :
+	
+Nov 12, 2017
+	Yesterday : discussed with group members about the assignment and what code base we wanted to use.
+	Today     : Do polyline before it's too late!
+	Obstacles : code base in future might change
+	
+Nov 13, 2017
+	Yesterday : did polyline on old code
+	Today     : Reimplement polyline to have double click, work on fixing up old code and reimplementing it on new code base.
+				add more features, maybe a triangle tool or something.
+	Obstacles : lot's of tricky work reorganzing working code into a new foundation
+	
+Nov 14, 2017
+	Yesterday : yesterdays fixing up of polyline was succesful, and fixed up some small things of the code.
+	Today     : Work on implementing more icons and maybe more features like triangle and oval.
+	Obstacles :	time is running short!

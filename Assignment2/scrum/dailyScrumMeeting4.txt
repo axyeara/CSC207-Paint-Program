@@ -1,0 +1,89 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Oct 23, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 30, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 1, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 3, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 5, 2017
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 8, 2017
+	Yesterday :
+	Today     : No work done, attempted to clone the repo but terminal returned an error everytime
+	Obstacles : Accessing my groups repo
+	
+Nov 9, 2017
+	Yesterday : No work done, attempted to clone the repo but terminal returned an error everytime
+	Today     : Got access to the Repo, evaluated the work my group members had already done so I knew what was done and
+				what was left to be done
+	Obstacles :	None
+	
+Nov 10, 2017
+	Yesterday : Got access to the Repo, evaluated the work my group members had already done so I knew what was done and
+				what was left to be done
+	Today     : Made contact with my group members
+	Obstacles :	None
